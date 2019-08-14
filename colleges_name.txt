@@ -1,0 +1,74 @@
+S.K.Patel College of Engineering (SKPCPER)
+A.M.Patel Institute Of Computer Studies(AMPICS)
+V.M.Patel Institute of Management(VMPIM)
+V.M.Patel College Of Management Studies(VMPCMS)
+Mehsana Urban Institute Of Science(MUIS)
+Department Of Computer Science(DCS)
+Department Of Social Work(DSW)
+Center of Management Studies and Research(CMSR)
+Institute of Technology(IOT)
+Institute Of Computer Technology(ICT)
+Ganpat University -IL & FS Institutes of Skills (ILFSIO)
+Gujrat Apollo Institue of Skills Enhancement (GAISE)
+Institute Of Architecture (IOA)
+Institute Of Design(IOD)
+Center For Health and Applied Scieces
+Center For Advanced Recharch Studies(GNU-CARS)
+B.S.Patel Polytechnic (BSPP)
+Indian Institute of Technology-Mumbai
+Indian Institute of Technology-Kanpur
+Indian Institute of Technology-Delhi
+Indian Institute of Technology-Indore
+Indian Institute of Technology-Hyderabad
+Indian Institute of Technology-Khadagpur
+Indian Institute of Technology-jammu
+Indian Institute of Technology-Madras
+Indian Institute of Technology-Tirupati
+Indian Institute of Technology-Patna
+Indian Institute of Technology-Gandhinagar
+Indian Institute of Technology-Goa
+Indian Institute of Technology-Roorkee
+Indian Institute of Technology-Varanasi
+Indian Institute of Technology-Guwahati
+Indian Institute of Technology-Ropar
+Indian Institute of Technology-Bhubaneshvar
+Indian Institute of Technology-Jodhpur
+Indian Institute of Technology-Mandi
+Indian Institute of Technology-Palakkad
+Indian Institute of Technology-Dhanbad
+Indian Institute of Technology-Bhilai
+Indian Institute of Technology-Dharwad
+National Institute Of Technology-Allahabad
+National Institute Of Technology-Calicut
+National Institute Of Technology-Hamirpur
+National Institute Of Technology-Bhopal
+National Institute Of Technology-Jaipur
+National Institute Of Technology-Jalander
+National Institute Of Technology-Jamshedpur
+National Institute Of Technology-kurukshetra
+National Institute Of Technology-Nagpur
+National Institute Of Technology-Rourkela
+National Institute Of Technology-Silchar
+National Institute Of Technology-Karnataka
+National Institute Of Technology-Warangal
+National Institute Of Technology-Durgapur
+National Institute Of Technology-Srinagar
+National Institute Of Technology-Surat
+National Institute Of Technology-Trichy
+National Institute Of Technology-Patna
+National Institute Of Technology-Raipur
+National Institute Of Technology-Agartala
+National Institute Of Technology-Arunachal Pradesh
+National Institute Of Technology-Delhi
+National Institute Of Technology-Goa
+National Institute Of Technology-Manipur
+National Institute Of Technology-Meghalaya
+National Institute Of Technology-Mizoram
+National Institute Of Technology-Nagaland
+National Institute Of Technology-Pondichery
+National Institute Of Technology-Sikkim
+National Institute Of Technology-Uttrakhand
+National Institute Of Technology-Andhra Pradesh
+
+
+
